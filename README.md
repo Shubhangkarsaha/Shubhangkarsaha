@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://textures4photoshop.com/tex/tags/christmas-gif.aspx?img=computer-screen-code-glitch-animation-gif-background-free" width="200" alt="Matrix Code Animation">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding Animation">
 </p>
 
 ###
@@ -112,8 +112,6 @@
         <br><b>📈 Kaggle Competitions</b><br>
         Participated actively & earned multiple <br> skill badges in ML challenges.
       </td>
-    </tr>
-    <tr>
       <td align="center" width="250">
         <img src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png" width="60" alt="Hackathon Icon">
         <br><b>💡 Hackathon Leader</b><br>
