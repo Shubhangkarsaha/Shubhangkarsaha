@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://textures4photoshop.com/tex/tags/christmas-gif.aspx?img=computer-screen-code-glitch-animation-gif-background-free" width="200" alt="Matrix Code Animation">
 </p>
 
 ###
@@ -92,16 +92,41 @@
 
 ## 🏆 Achievements
 
+
+<h2 align="center">🏆 Achievements & Projects</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhangkarsaha&theme=onedark&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="60" alt="Projects Icon">
 </p>
 
-<ul>
-  <li>🥇 Launched <b>Sparklumart</b> startup connecting artisans with Gen Z fashion</li>
-  <li>📈 Kaggle Competitions Participant – Earned multiple skill badges</li>
-  <li>💡 Hackathon Technical Team Leader at LPU – Organized campus-wide hackathon</li>
-  <li>📚 Certified in <b>MERN Stack</b> and <b>Introduction to Algorithms (IIT KGP)</b></li>
-</ul>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" width="60" alt="Startup Icon">
+        <br><b>🥇 Sparklumart Startup</b><br>
+        Connected artisans with Gen Z fashion,<br> built sourcing network, curated online products.
+      </td>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" width="60" alt="Kaggle Logo">
+        <br><b>📈 Kaggle Competitions</b><br>
+        Participated actively & earned multiple <br> skill badges in ML challenges.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png" width="60" alt="Hackathon Icon">
+        <br><b>💡 Hackathon Leader</b><br>
+        Led the technical team at LPU,<br> organized a campus-wide hackathon.
+      </td>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907997.png" width="60" alt="Certification Icon">
+        <br><b>📚 Certifications</b><br>
+        MERN Stack & Intro to Algorithms (IIT KGP).
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 <picture>
