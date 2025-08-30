@@ -41,13 +41,13 @@
   <a href="https://github.com/Shubhangkarsaha">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/ig_shubha/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://www.kaggle.com/">
+  <a href="https://www.kaggle.com/shubhangkarsaha">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/shubhangkar426/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
 </div>
