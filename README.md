@@ -27,9 +27,33 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="Power BI Logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="60" alt="Tableau Logo" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="tableau logo" />
   <img width="12" />
 </div>
 
