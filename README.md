@@ -64,7 +64,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph.svg">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangkarsaha&theme=react-dark&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
 </picture>
 
 ###
