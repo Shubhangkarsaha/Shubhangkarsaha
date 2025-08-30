@@ -102,29 +102,41 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="250">
-        <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" width="60" alt="Startup Icon">
-        <br><b>🥇 Sparklumart Startup</b><br>
-        Connected artisans with Gen Z fashion,<br> built sourcing network, curated online products.
+      <td align="center" width="250" style="background:#f0f8ff; border-radius:15px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" width="60" alt="Startup Icon"><br>
+        <b>🥇 Sparklumart Startup</b><br>
+        Connected artisans with Gen Z fashion,<br> built sourcing network, curated online products.<br><br>
+        <progress value="90" max="100" style="width:80%; height:10px;"></progress><br>
+        <small>Impact: 90%</small>
       </td>
-      <td align="center" width="250">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" width="60" alt="Kaggle Logo">
-        <br><b>📈 Kaggle Competitions</b><br>
-        Participated actively & earned multiple <br> skill badges in ML challenges.
+      
+      <td align="center" width="250" style="background:#fffaf0; border-radius:15px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" width="60" alt="Kaggle Logo"><br>
+        <b>📈 Kaggle Competitions</b><br>
+        Participated actively & earned multiple<br> skill badges in ML challenges.<br><br>
+        <progress value="75" max="100" style="width:80%; height:10px;"></progress><br>
+        <small>Progress: 75%</small>
       </td>
-      <td align="center" width="250">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png" width="60" alt="Hackathon Icon">
-        <br><b>💡 Hackathon Leader</b><br>
-        Led the technical team at LPU,<br> organized a campus-wide hackathon.
+      
+      <td align="center" width="250" style="background:#f5fffa; border-radius:15px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png" width="60" alt="Hackathon Icon"><br>
+        <b>💡 Hackathon Leader</b><br>
+        Led the technical team at LPU,<br> organized a campus-wide hackathon.<br><br>
+        <progress value="85" max="100" style="width:80%; height:10px;"></progress><br>
+        <small>Leadership: 85%</small>
       </td>
-      <td align="center" width="250">
-        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907997.png" width="60" alt="Certification Icon">
-        <br><b>📚 Certifications</b><br>
-        MERN Stack & Intro to Algorithms (IIT KGP).
+      
+      <td align="center" width="250" style="background:#fff0f5; border-radius:15px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907997.png" width="60" alt="Certification Icon"><br>
+        <b>📚 Certifications</b><br>
+        MERN Stack & Intro to Algorithms (IIT KGP).<br><br>
+        <progress value="100" max="100" style="width:80%; height:10px;"></progress><br>
+        <small>Completed: 100%</small>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 <picture>
