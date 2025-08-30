@@ -27,9 +27,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="Power BI Logo" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="Power BI Logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="50" alt="Tableau Logo" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="60" alt="Tableau Logo" />
+  <img width="12" />
 </div>
 
 ###
