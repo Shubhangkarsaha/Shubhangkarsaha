@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
 ###
@@ -60,6 +60,49 @@
 </div>
 
 ###
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 ChronoLearn Dashboard</h3>
+      <p align="center">
+        <img src="https://github.com/yourusername/yourrepo/raw/main/assets/dashboard.gif" width="80%" alt="Dashboard Demo"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Shubhangkarsaha/ChronoLearn-Dashboard">
+          <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧘 Smart Yoga AI Coach</h3>
+      <p align="center">
+        <img src="https://github.com/yourusername/yourrepo/raw/main/assets/yoga-ai.gif" width="80%" alt="Yoga AI"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Shubhangkarsaha/Smart-Yoga-AI-Coach">
+          <img src="https://img.shields.io/badge/View%20Project-0d1117?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhangkarsaha&theme=onedark&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies"/>
+</p>
+
+<ul>
+  <li>🥇 Launched <b>Sparklumart</b> startup connecting artisans with Gen Z fashion</li>
+  <li>📈 Kaggle Competitions Participant – Earned multiple skill badges</li>
+  <li>💡 Hackathon Technical Team Leader at LPU – Organized campus-wide hackathon</li>
+  <li>📚 Certified in <b>MERN Stack</b> and <b>Introduction to Algorithms (IIT KGP)</b></li>
+</ul>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph-dark.svg">
