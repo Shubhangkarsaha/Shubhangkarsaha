@@ -95,19 +95,39 @@
 
 ## 🏆 Achievements & Projects
 
+<h2 align="center">🏆 Achievements & Projects</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="60" alt="Projects Icon">
 </p>
 
-### 🚀 Projects & Achievements
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" width="60" alt="Startup Icon">
+        <br><b>🥇 Sparklumart Startup</b><br>
+        Connected artisans with Gen Z fashion,<br> built sourcing network, curated online products.
+      </td>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" width="60" alt="Kaggle Logo">
+        <br><b>📈 Kaggle Competitions</b><br>
+        Participated actively & earned multiple <br> skill badges in ML challenges.
+      </td>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png" width="60" alt="Hackathon Icon">
+        <br><b>💡 Hackathon Leader</b><br>
+        Led the technical team at LPU,<br> organized a campus-wide hackathon.
+      </td>
+      <td align="center" width="250">
+        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907997.png" width="60" alt="Certification Icon">
+        <br><b>📚 Certifications</b><br>
+        MERN Stack & Intro to Algorithms (IIT KGP).
+      </td>
+    </tr>
+  </table>
+</p>
 
-| 🎯 Achievement | 📊 Progress | 🌟 Details |
-|----------------|-------------|------------|
-| 🥇 **Sparklumart Startup** | ![90%](https://progress-bar.dev/90/?title=Impact) | Connected artisans with Gen Z fashion, built sourcing network, curated online products. |
-| 📈 **Kaggle Competitions** | ![75%](https://progress-bar.dev/75/?title=Learning) | Participated in ML challenges, earned multiple skill badges. |
-| 💡 **Hackathon Leader** | ![85%](https://progress-bar.dev/85/?title=Leadership) | Led technical team at LPU, organized campus-wide hackathon. |
-| 📚 **Certifications** | ![100%](https://progress-bar.dev/100/?title=Completed) | MERN Stack & Intro to Algorithms (IIT KGP). |
->
 
 
 
