@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powerbi logo" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" alt="Power BI Logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="tableau logo" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="50" alt="Tableau Logo" />
 </div>
 
 ###
